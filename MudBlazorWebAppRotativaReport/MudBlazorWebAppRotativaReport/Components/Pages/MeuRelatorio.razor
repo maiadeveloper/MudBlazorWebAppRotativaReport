@@ -1,0 +1,14 @@
+﻿@page "/meu-relatorio"
+@rendermode InteractiveServer
+@inject IJSRuntime JSRuntime
+
+<MudButton Color="Color.Primary" Variant="Variant.Filled" @onclick="GerarRelatorio">Clique para gerar relatório</MudButton>
+
+@code {
+
+    private async Task GerarRelatorio()
+    {
+        //Navigation.NavigateTo("Pdf/GerarRelatorio");
+        await JSRuntime.InvokeVoidAsync("open", "/Pdf/GerarRelatorio", "_blank");
+    }
+}

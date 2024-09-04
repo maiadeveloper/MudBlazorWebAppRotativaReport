@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\300154318\\Desktop\\MudBlazorWebAppRotativaReport\\MudBlazorWebAppRotativaReport\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\300154318\\Desktop\\MudBlazorWebAppRotativaReport\\MudBlazorWebAppRotativaReport\\wwwroot\\rotativa\\help-wkhtmltoimage.txt",
+      "PackagePath": "staticwebassets\\rotativa\\help-wkhtmltoimage.txt"
+    },
+    {
+      "Id": "C:\\Users\\300154318\\Desktop\\MudBlazorWebAppRotativaReport\\MudBlazorWebAppRotativaReport\\wwwroot\\rotativa\\help-wkhtmltopdf.txt",
+      "PackagePath": "staticwebassets\\rotativa\\help-wkhtmltopdf.txt"
+    },
+    {
+      "Id": "C:\\Users\\300154318\\Desktop\\MudBlazorWebAppRotativaReport\\MudBlazorWebAppRotativaReport\\wwwroot\\rotativa\\wkhtmltoimage.exe",
+      "PackagePath": "staticwebassets\\rotativa\\wkhtmltoimage.exe"
+    },
+    {
+      "Id": "C:\\Users\\300154318\\Desktop\\MudBlazorWebAppRotativaReport\\MudBlazorWebAppRotativaReport\\wwwroot\\rotativa\\wkhtmltopdf.exe",
+      "PackagePath": "staticwebassets\\rotativa\\wkhtmltopdf.exe"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.MudBlazorWebAppRotativaReport.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.MudBlazorWebAppRotativaReport.props",
+      "PackagePath": "build\\MudBlazorWebAppRotativaReport.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.MudBlazorWebAppRotativaReport.props",
+      "PackagePath": "buildMultiTargeting\\MudBlazorWebAppRotativaReport.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.MudBlazorWebAppRotativaReport.props",
+      "PackagePath": "buildTransitive\\MudBlazorWebAppRotativaReport.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
