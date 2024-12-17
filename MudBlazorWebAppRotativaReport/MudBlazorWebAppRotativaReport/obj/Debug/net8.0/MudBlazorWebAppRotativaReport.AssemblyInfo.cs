@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MudBlazorWebAppRotativaReport")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fc1f26d210aef52ce1725a1bf1e91760407e5f95")]
 [assembly: System.Reflection.AssemblyProductAttribute("MudBlazorWebAppRotativaReport")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MudBlazorWebAppRotativaReport")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

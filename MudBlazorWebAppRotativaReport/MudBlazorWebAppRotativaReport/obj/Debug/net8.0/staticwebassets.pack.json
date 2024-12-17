@@ -1,23 +1,23 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\300154318\\Desktop\\MudBlazorWebAppRotativaReport\\MudBlazorWebAppRotativaReport\\wwwroot\\favicon.ico",
+      "Id": "D:\\GitHub\\MudBlazorWebAppRotativaReport\\MudBlazorWebAppRotativaReport\\MudBlazorWebAppRotativaReport\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "C:\\Users\\300154318\\Desktop\\MudBlazorWebAppRotativaReport\\MudBlazorWebAppRotativaReport\\wwwroot\\rotativa\\help-wkhtmltoimage.txt",
+      "Id": "D:\\GitHub\\MudBlazorWebAppRotativaReport\\MudBlazorWebAppRotativaReport\\MudBlazorWebAppRotativaReport\\wwwroot\\rotativa\\help-wkhtmltoimage.txt",
       "PackagePath": "staticwebassets\\rotativa\\help-wkhtmltoimage.txt"
     },
     {
-      "Id": "C:\\Users\\300154318\\Desktop\\MudBlazorWebAppRotativaReport\\MudBlazorWebAppRotativaReport\\wwwroot\\rotativa\\help-wkhtmltopdf.txt",
+      "Id": "D:\\GitHub\\MudBlazorWebAppRotativaReport\\MudBlazorWebAppRotativaReport\\MudBlazorWebAppRotativaReport\\wwwroot\\rotativa\\help-wkhtmltopdf.txt",
       "PackagePath": "staticwebassets\\rotativa\\help-wkhtmltopdf.txt"
     },
     {
-      "Id": "C:\\Users\\300154318\\Desktop\\MudBlazorWebAppRotativaReport\\MudBlazorWebAppRotativaReport\\wwwroot\\rotativa\\wkhtmltoimage.exe",
+      "Id": "D:\\GitHub\\MudBlazorWebAppRotativaReport\\MudBlazorWebAppRotativaReport\\MudBlazorWebAppRotativaReport\\wwwroot\\rotativa\\wkhtmltoimage.exe",
       "PackagePath": "staticwebassets\\rotativa\\wkhtmltoimage.exe"
     },
     {
-      "Id": "C:\\Users\\300154318\\Desktop\\MudBlazorWebAppRotativaReport\\MudBlazorWebAppRotativaReport\\wwwroot\\rotativa\\wkhtmltopdf.exe",
+      "Id": "D:\\GitHub\\MudBlazorWebAppRotativaReport\\MudBlazorWebAppRotativaReport\\MudBlazorWebAppRotativaReport\\wwwroot\\rotativa\\wkhtmltopdf.exe",
       "PackagePath": "staticwebassets\\rotativa\\wkhtmltopdf.exe"
     },
     {

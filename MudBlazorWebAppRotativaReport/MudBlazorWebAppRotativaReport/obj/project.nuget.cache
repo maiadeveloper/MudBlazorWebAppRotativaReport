@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "RGMf16ZDnl4=",
+  "dgSpecHash": "Xp7k2I6s6X8=",
   "success": true,
-  "projectFilePath": "C:\\Users\\300154318\\Desktop\\MudBlazorWebAppRotativaReport\\MudBlazorWebAppRotativaReport\\MudBlazorWebAppRotativaReport.csproj",
+  "projectFilePath": "D:\\GitHub\\MudBlazorWebAppRotativaReport\\MudBlazorWebAppRotativaReport\\MudBlazorWebAppRotativaReport\\MudBlazorWebAppRotativaReport.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\300154318\\.nuget\\packages\\microsoft.aspnetcore.antiforgery\\2.0.1\\microsoft.aspnetcore.antiforgery.2.0.1.nupkg.sha512",
     "C:\\Users\\300154318\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.0.1\\microsoft.aspnetcore.authentication.abstractions.2.0.1.nupkg.sha512",
